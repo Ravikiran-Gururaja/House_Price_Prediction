@@ -6,6 +6,8 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 <a href="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/train.csv">  Train.csv </a>
 
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+
 <img src="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/houseprice.jpg"> </img>
 
 The company wants to know:
