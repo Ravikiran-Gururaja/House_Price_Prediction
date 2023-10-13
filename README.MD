@@ -2,7 +2,7 @@
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
-<"https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/train.csv">  Train.csv </a>
+<a href="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/train.csv">  Train.csv </a>
 
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
@@ -38,4 +38,4 @@ You are required to model the price of houses with the available independent var
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
 
 ## Assignment Python code and Subjective Questions and Answers Presentation in PDF
-<a href= "https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Advanced%20Regression%20-%20House%20Price%20Prediction.ipynb"> Click to view the Python code </a>   <b> / </b> <"https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Problem%20Statement.pdf">  Click to view 'Problem Statement' in PDF </a>
+<a href= "https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Advanced%20Regression%20-%20House%20Price%20Prediction.ipynb"> Click to view the Python code </a>   <b> / </b> <a href="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Problem%20Statement.pdf">  Click to view 'Problem Statement' in PDF </a>
