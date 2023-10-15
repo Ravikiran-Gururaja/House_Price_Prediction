@@ -1,4 +1,4 @@
-<html>
+
 ## House-Price-Prediction ##
 <img src="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/house_price_prediction.png"> </img>
 
