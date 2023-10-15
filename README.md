@@ -1,3 +1,4 @@
+<html>
 ## House-Price-Prediction ##
 <img src="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/house_price_prediction.png"> </img>
 
@@ -37,6 +38,7 @@ You are required to model the price of houses with the available independent var
 
 ## Contact (GitHub)
 <a href="https://github.com/Ravikiran-Gururaja"> Ravikiran Gururaja's GitHub link </a>
+</html?
 
 ## Connect with me on LinkedIn:-
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
