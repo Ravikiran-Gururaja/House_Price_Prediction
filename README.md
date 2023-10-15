@@ -45,4 +45,4 @@ You are required to model the price of houses with the available independent var
 
 ## Assignment Python code and Problem Statement in PDF
 <a href= "https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Advanced%20Regression%20-%20House%20Price%20Prediction.ipynb"> Click to view the Python code </a>   <b> / </b> <a href="https://github.com/Ravikiran-Gururaja/House_Price_Prediction/blob/main/Problem%20Statement.pdf">  Click to view 'Problem Statement' in PDF </a>
-</html>
+
